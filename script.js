@@ -1,4 +1,4 @@
-// Sample data for Marvel characters and their costumes
+// Sample data for Marvel characters and their suits
 const characters = [
     {
         name: "Spider-Man",
